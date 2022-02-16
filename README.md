@@ -2,7 +2,7 @@
 - 👨🏻‍💻 This is your guy, Piyush
 - 💻 I’m currently in the pre-final year of Information Technology Engineering
 
-- 🌱 My skills include : C++, Node.js, C, Python, AWS, Cloud Computing, Database Management, Data Structures & Algorithms, CSS, HTML, Bootstrap, Adobe Photoshop
+- 🌱 My skills include : C++, ReactJS, Node.js, Python, Data Structures & Algorithms, CSS, HTML, Adobe Photoshop
 - 📫 To get in touch with me, shoot me an email at : piyushbkautkar@gmail.com
 
 
